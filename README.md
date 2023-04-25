@@ -15,4 +15,8 @@ Installing Sonarqube in an AWS EC2 instance.
 
 **4. [Installing Sonarqube](./docs/installing-sonarqube.md).**
 
+**5. [Creating a token for Jenkins](./docs/jenkins-token.md).**
+
+
+
 -----------------------------------------------------------
